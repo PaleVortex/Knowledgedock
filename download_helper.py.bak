@@ -1,0 +1,10 @@
+"""
+Backup of download_helper.py before restore
+"""
+
+# Backup of current file created by assistant
+
+import sys
+
+# The original content was backed up here for safety. If you need this file restored,
+# replace `mihon_app/download_helper.py` with the contents of this backup.
